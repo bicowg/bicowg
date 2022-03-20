@@ -43,8 +43,7 @@ Network Footprints: While it is ideal that all validators report their carbon fo
 
 *Pro Tip*: For validators that work on multiple networks, it is important to acknowledge the years and networks each use of this calculator applies against (ie. 3 years operations on 4 networks) to ensure footprints on a protocol level are not over estimated.
 
-
-#### Non-Fungible Token Carbon Footprint Calculators
+#### On-Chain an Non-Fungible Token (NFT) Carbon Footprint Calculators
 FungyProof [NFT NRG Matrix](https://github.com/FungyProof/nrg-matrix)
 Developed by [FungyProof](https://www.fungyproof.com/)
 Methodology transparency: publicly available
@@ -54,6 +53,8 @@ A reference guide for understanding the energy consumption of Non-Fungible Token
 [Carbon.Fyi NFT Calculator](https://carbon.fyi/learn)
 Developed by [Offsetra](https://offsetra.com/)
 Methodology transparency: publicly available [Methodology](https://www.notion.so/Carbon-FYI-Methodology-51e2d8c41d1c4963970a143b8629f5f9)
+
+[Patch.io BTC & ETH Calculator APIs](https://www.patch.io/products/insights) Methodology transparency: publicly available [Methodology](https://patchtech.notion.site/Patch-Crypto-Carbon-Accounting-Methodology-f25e2a8dd34e4f55bbd92c9ee38516f9)
 
 An ETH wallet’s footprint is derived from the sum of Ethereum Gas consumed for transactions leaving your wallet, multiplied by a best-guess estimated emissions factor. The emissions factor was derived from the energy mix and geographic location of Ethereum mining pools.
 
@@ -85,7 +86,25 @@ A quick business calculator that takes into account electric, heat, vehicle, air
 *Methodology transparency*: none
 
 [GHG emissions reductions calculator](https://ghgprotocol.org/)
-Methodology transparency: downloadable excel resources
+*Methodology transparency*: downloadable excel resources
+
+[Carbon Trust SME Calculator](https://gbfcalc.azurewebsites.net/gbf/calc)
+*Methodology transparency*: [Disclaimer](https://gbfcalc.azurewebsites.net/gbf/disclaimer?d=cc)
+
+[Cool Effect](https://www.cooleffect.org/business-offset)
+*Methodology transparency*: not found
+
+[Cool Farm Alliance](https://coolfarmtool.org/)
+Free for farmers, specific to agriculture
+*Methodology transparency*: not found
+
+[Watershed Work from Home/Hybrid Workplaces Calculator](https://watershed.com/wfh-calculator?config=eyJ2IjoxLCJjb21tb25WYXJpYWJsZXMiOnsiY2l0eUlkIjoic2FuLWZyYW5jaXNjbyIsImVtcGxveWVlcyI6NTAwfSwidkIiOltudWxsLDUsMC41LGZhbHNlLGZhbHNlLDMseyJfdmFsdWUiOjE4MDAsIl91bml0IjoiaW1wZXJpYWwifSwwLjUsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGxdLCJ2RiI6W251bGwsNSwwLjUsZmFsc2UsZmFsc2UsMyx7Il92YWx1ZSI6MTgwMCwiX3VuaXQiOiJpbXBlcmlhbCJ9LDAuNSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF19)
+*Methodology transparency*: not found
+
+[Zellar SME Calculator](https://zellar.com/)
+*Methodology transparency*: not found
+
+
 
 #### (Non-Blockchain) Individual Footprint Calculators
 
@@ -105,6 +124,11 @@ A quick calculator that takes into account location, home, flights, car, motorbi
 [ClimateCare Calculator](https://www.climatecare.org/calculator/)
 A quick calculator that takes into account flights, transport, energy, events, accommodations, food, freight, and waste.
 *Methodology transparency*: none; uses interface
+
+[CarbonClick Personal Calculator](https://www.carbonclick.com/personal-footprint-calculator/)
+*Methodology transparency*: none; uses interface
+
+
 
 
 ### Term Glossary
